@@ -20,6 +20,9 @@
         <module name="eureka_provider" />
         <module name="eureka_server" />
         <module name="eureka_server (1)" />
+        <module name="user_api" />
+        <module name="user_consumer" />
+        <module name="user_provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +30,9 @@
       <module name="eureka_provider" target="1.8" />
       <module name="eureka_server" target="1.8" />
       <module name="eureka_server (1)" target="1.8" />
+      <module name="user_api" target="1.8" />
+      <module name="user_consumer" target="1.8" />
+      <module name="user_provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
